@@ -1,0 +1,99 @@
+﻿Build started 19/10/2015 15:35:36.
+     1>Project "C:\Users\Ash\Dropbox\Visual Studio Projects\Coursework\sample.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (My_Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Collectable.cpp GameActivity.cpp LevelTwoActivity.cpp
+         LevelTwoActivity.cpp
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(111): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(123): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : see declaration of 'freopen'
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(189): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(338): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(339): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(343): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(344): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(348): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(349): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(353): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(354): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(358): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(359): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(464): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(470): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(475): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(477): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(725): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(729): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(752): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(797): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(800): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(821): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(830): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(844): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\leveltwoactivity.cpp(846): warning C4018: '<' : signed/unsigned mismatch
+         GameActivity.cpp
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(111): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(123): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : see declaration of 'freopen'
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(188): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(335): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(336): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(340): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(341): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(345): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(346): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(350): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(351): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(355): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(356): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(463): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(469): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(479): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(481): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(728): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(732): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(755): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(803): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(806): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(832): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(841): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(862): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ash\dropbox\visual studio projects\coursework\gameactivity.cpp(864): warning C4018: '<' : signed/unsigned mismatch
+         Collectable.cpp
+     1>c:\users\ash\dropbox\visual studio projects\coursework\collectable.cpp(27): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\collectable.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\collectable.cpp(36): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\collectable.cpp(38): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ash\dropbox\visual studio projects\coursework\collectable.cpp(40): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ash\Dropbox\Visual Studio Projects\Coursework\Debug\sample.exe" /INCREMENTAL:NO /NOLOGO opengl32.lib glu32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ash\Dropbox\Visual Studio Projects\Coursework\Debug\sample.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ash\Dropbox\Visual Studio Projects\Coursework\Debug\sample.lib" /MACHINE:X86 /SAFESEH Debug\Activity.obj
+         Debug\Boss.obj
+         Debug\BoundingBox.obj
+         Debug\Bullet.obj
+         Debug\Collectable.obj
+         Debug\Collision.obj
+         Debug\EndScreenActivity.obj
+         Debug\EnemyRobot.obj
+         Debug\GameActivity.obj
+         Debug\image_DXT.obj
+         Debug\image_helper.obj
+         Debug\InputState.obj
+         Debug\InstructionActivity.obj
+         Debug\LevelTwoActivity.obj
+         Debug\Matrix.obj
+         Debug\OpenGLApplication.obj
+         Debug\Player.obj
+         Debug\PolyObjects.obj
+         Debug\SOIL.obj
+         Debug\StartScreenActivity.obj
+         Debug\stb_image_aug.obj
+         Debug\Victory.obj
+         Debug\win32main.obj
+     1>Activity.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         sample.vcxproj -> C:\Users\Ash\Dropbox\Visual Studio Projects\Coursework\Debug\sample.exe
+     1>Done Building Project "C:\Users\Ash\Dropbox\Visual Studio Projects\Coursework\sample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.04

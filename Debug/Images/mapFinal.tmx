@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grassTile" tilewidth="32" tileheight="32">
+  <image source="grassTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="pathTile" tilewidth="32" tileheight="32">
+  <image source="pathTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="treeTile" tilewidth="32" tileheight="32">
+  <image source="treeTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="4" name="pathFenceHigherTile" tilewidth="32" tileheight="32">
+  <image source="pathFenceHigherTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="5" name="pathFenceLowerTile" tilewidth="32" tileheight="32">
+  <image source="pathFenceLowerTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="6" name="grass2Tile" tilewidth="32" tileheight="32">
+  <image source="grass2Tile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="7" name="finishTile" tilewidth="32" tileheight="32">
+  <image source="finishTile.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3MtygkAQQFET8/j/P06qsjYKDs4FzuLu6TlUgwu5Xi6XqyRJOlxv2jwerXi0mr0D9Vjfv73r5fFoxaPVkh02+1n3X1vOXW3U2X0Nbq3H7Hvo2fcrHjx48ODBg8f8s+fBgwcPHjx48ODBgwcPHjx4zD97Hjx4bOdRnWGtx5aN9rg1w9K5zxqPVvbVsva2r/ZksdZj9jXz4MGDB4/58WjFoxWPVjxa+T3YaqnH1vFoxcO+KuV53opHKx6teLTi0YpHKx6teLTi0YpHKx6teLTi0YpHKx6teLQ6o0d1hjN43Jph6dzVeLTam0dtX937T+cMj6VnN7qZ980WHiP6fFFH99hbPFrxaHV0j1HPj48XdXSPEdd05vere83w2CIerXi04vHX6G9APfqdKB48ePDgwYMHj2o8WvFoxaMVj1Y8WvFoxaMVj1Y8Wj3rUYlHKx6tlnhIkqR99QP+QFDV
+  </data>
+ </layer>
+</map>

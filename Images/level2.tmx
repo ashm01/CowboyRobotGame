@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="gravelTile" tilewidth="32" tileheight="32">
+  <image source="gravelTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="bridgeHorvTile - Copy" tilewidth="32" tileheight="32">
+  <image source="bridgeHorvTile - Copy.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="bridgeVertTile" tilewidth="32" tileheight="32">
+  <image source="bridgeVertTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="4" name="rockTile" tilewidth="32" tileheight="32">
+  <image source="rockTile.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="5" name="lavaTile" tilewidth="32" tileheight="32">
+  <image source="lavaTile.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2jkSwjAQRUED5v5XJiKjjJBMzZfVwUvR1HTgjX3btn2SHo1Vz7lKPLLikRWPrFb1uIXW6lE9Z2s8suLxvWdnPK7pcZckqaOK63nvNbP1et77+2fNMNv9FQ8ePHjw4MGDBw8ePHjw4NG7i6P98ODBgwcPHjx48ODBgwcPHrN5VH+//6VKj/cOefBIjUdWPLLikRWPrHhktYJHz/Ngy0xHc/XuhAcPHjx48ODBgwePZI/RnfDgwYMHDx481vGofu85Eo+seGTFIyseWfHIikdWPLLikdWsHkdV75TH8bmpXel9CQ8ePMY9Rs/8Zzyyms3jjHOrd86DBw8ePHjw4MGDBw8eCfHIqtpjNB48ePDgwYMHj7Q+7b76/xS/xCMrHlnxyIpHVtUeZ9+f8ODBgwcPHmd59DyfV7WqR2qtHtVzrhKPrHhkxSMrHlmt4PECaJp5vQ==
+  </data>
+ </layer>
+</map>
